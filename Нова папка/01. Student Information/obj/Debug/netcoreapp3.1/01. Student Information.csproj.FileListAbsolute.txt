@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\Admin\source\repos\01. Student Information\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache
